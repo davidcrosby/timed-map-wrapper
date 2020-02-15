@@ -1,11 +1,15 @@
 {
   "name": "timed-map-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Map with a time limit on entries",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node lib/test/test.js"
   },
   "author": "David Crosby <datcrosb@ucsc.edu>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-google": "^0.14.0"
+  }
 }

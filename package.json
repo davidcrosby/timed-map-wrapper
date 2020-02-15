@@ -1,0 +1,11 @@
+{
+  "name": "timed-map-wrapper",
+  "version": "1.0.0",
+  "description": "Map with a time limit on entries",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Crosby <datcrosb@ucsc.edu>",
+  "license": "MIT"
+}
